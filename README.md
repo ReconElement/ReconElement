@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ReconElement aka Omkar Panda
 - 👀 I’m interested in Web Programming and some low latency programming
-- 🌱 I’m currently learning Express & React and other toolings
+- 🌱 I’m currently wired in
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me omkarpanda895@gmail.com
 
