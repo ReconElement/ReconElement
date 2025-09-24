@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ReconElement aka Omkar Panda
 - 👀 I’m interested in Web Programming and some low latency programming
 - 🌱 I’m currently wired in
-- 💞️ Everything here is hand typed, no vibe coded or AI slop
+- 💞️ Everything here is hand typed, with passion
 - 📫 How to reach me omkarpanda895@gmail.com
 
 <!---
